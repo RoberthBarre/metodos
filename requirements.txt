@@ -78,7 +78,7 @@ testpath==0.4.4
 tldextract==1.6
 toml==0.10.2
 tornado==6.1
-traitlets==5.0.5
+traitlets==4.3.3
 unicodecsv==0.13.0
 urllib3==1.26.3
 wcwidth==0.2.5
